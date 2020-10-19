@@ -1,0 +1,13 @@
+D:\University\labs\4.1\SAIMOD\lab5_6\lab5_6\bin\Debug\netcoreapp3.1\lab5_6.exe
+D:\University\labs\4.1\SAIMOD\lab5_6\lab5_6\bin\Debug\netcoreapp3.1\lab5_6.deps.json
+D:\University\labs\4.1\SAIMOD\lab5_6\lab5_6\bin\Debug\netcoreapp3.1\lab5_6.runtimeconfig.json
+D:\University\labs\4.1\SAIMOD\lab5_6\lab5_6\bin\Debug\netcoreapp3.1\lab5_6.runtimeconfig.dev.json
+D:\University\labs\4.1\SAIMOD\lab5_6\lab5_6\bin\Debug\netcoreapp3.1\lab5_6.dll
+D:\University\labs\4.1\SAIMOD\lab5_6\lab5_6\bin\Debug\netcoreapp3.1\lab5_6.pdb
+D:\University\labs\4.1\SAIMOD\lab5_6\lab5_6\obj\Debug\netcoreapp3.1\lab5_6.csprojAssemblyReference.cache
+D:\University\labs\4.1\SAIMOD\lab5_6\lab5_6\obj\Debug\netcoreapp3.1\lab5_6.AssemblyInfoInputs.cache
+D:\University\labs\4.1\SAIMOD\lab5_6\lab5_6\obj\Debug\netcoreapp3.1\lab5_6.AssemblyInfo.cs
+D:\University\labs\4.1\SAIMOD\lab5_6\lab5_6\obj\Debug\netcoreapp3.1\lab5_6.csproj.CoreCompileInputs.cache
+D:\University\labs\4.1\SAIMOD\lab5_6\lab5_6\obj\Debug\netcoreapp3.1\lab5_6.dll
+D:\University\labs\4.1\SAIMOD\lab5_6\lab5_6\obj\Debug\netcoreapp3.1\lab5_6.pdb
+D:\University\labs\4.1\SAIMOD\lab5_6\lab5_6\obj\Debug\netcoreapp3.1\lab5_6.genruntimeconfig.cache
